@@ -34,3 +34,4 @@
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/89lkraj7jah0kotb?svg=true)](https://ci.appveyor.com/project/Turovae/regexp-phonenumbers)
